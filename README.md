@@ -4,6 +4,9 @@ This repository provides an automated pipeline for analyzing the geometric prope
 
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/95320f4e-0156-4d79-a10b-bc719aa5e177" />
+
+
+
 ## Features
 
 - **3D Skeletonization & Refinement**: Extraction of precise centerline coordinates from refined binary masks of vascular structures.
