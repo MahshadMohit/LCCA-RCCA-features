@@ -1,9 +1,9 @@
 # Carotid Artery Tortuosity and Turning Angle Analysis
 
 This repository provides an automated pipeline for analyzing the geometric properties, tortuosity, and precise turning angles (kink points) of the Left Common Carotid Artery (LCCA) and Right Common Carotid Artery (RCCA). Using advanced medical image processing and skeletonization techniques, the project quantifies vascular dynamics to assist in clinical assessments of arterial kinking and tortuosity.
+
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/95320f4e-0156-4d79-a10b-bc719aa5e177" />
-
-
 ## Features
 
 - **3D Skeletonization & Refinement**: Extraction of precise centerline coordinates from refined binary masks of vascular structures.
